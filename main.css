@@ -1,0 +1,62 @@
+h1 {
+    color: red;
+}
+h2 {
+    color: blue
+}
+h1, h2, p, li {font-family: 'Indie Flower', cursive;}
+.textbackgorund {background-color: rgba (128, 128, 128. 0.5) }
+
+img {
+    max-width:100%;
+    height:auto;
+   
+}
+.indexbackground {
+    background-image: url("vulcan.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.itInBusiness {
+    background-image: url("Paperwork.jpg");
+    background-repeat: no-repeat;
+    background-size: 285%;
+
+}
+.Teamwork {background-image: url("Ant.jpg");
+    background-repeat: no-repeat;
+    background-size: 135%;
+ }
+.ITtasks {background-image: url("ITtasks.jfif");
+    background-repeat: no-repeat;
+    background-size: 410%;
+ }
+ div {
+    width: 50%;
+    padding: 10px;
+    margin: 10px, 10px;}
+
+.Padlock {background-image: url("Padlock.png");
+        background-repeat: no-repeat;
+        background-size: 120%;
+}
+.Software {background-image: url("Software.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.Legal {background-image: url("Legal.png");
+    background-repeat: no-repeat;
+    background-size: 90%;
+}
+.Copyright {background-image: url("Copyright.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.Disable {background-image: url("Disable.png");
+    background-repeat: no-repeat;
+    background-size: 40%;
+}
+.html {background-image: url("html.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
